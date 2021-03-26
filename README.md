@@ -1,13 +1,13 @@
-# atlanta-housing-price
+# Atlanta and Dallas -housing-price
 
 Note: This is a personal project to assess the current housing market in Atlanta and compare that to Dallas area. The dataset was acquired from Realtor.com's public dataset and the original csv file has been uploaded. 
 
-Objective: To view and analyze changes in housing prices as the economy recovers and interest rates stay low. 
+**Objective**: To view and analyze changes in housing prices as the economy recovers and interest rates stay low. 
 
-Methodology: The dataset was obtained from https://www.realtor.com/research/data/. I used Python via Jupyter Notebook to load the dataset and extract only the information that I needed to get a snapshot of how the prices are behaving in general at the moment. After cleaning and taking a quick look, the data was exported to create visualization in Tableau.
+**Methodology**: The dataset was obtained from https://www.realtor.com/research/data/. I used Python via Jupyter Notebook to load the dataset and extract only the information that I needed to get a snapshot of how the prices are behaving in general at the moment. After cleaning and taking a quick look, the data was exported to create visualization in Tableau.
 
 
-Findings: (This will be a WIP as I keep working on it) In general, demand for housing increases from April to around August as can be seen from the graph below. However, the past few months have shown unpreccedented changes in the market. Housing demand in metro areas like Atlanta, GA and Dallas, TX have increased tremondously in the past couple of months as supported by the following: 
+**Findings**: (This will be a WIP as I keep working on it) In general, demand for housing increases from April to around August as can be seen from the graph below. However, the past few months have shown unpreccedented changes in the market. Housing demand in metro areas like Atlanta, GA and Dallas, TX have increased tremondously in the past couple of months as supported by the following: 
 
 1. In both Atlanta metro and Dallas-Fort Worth metro, the average price of houses have increased by 100k compared to last year, before the pandemic affected the market. The trend of past couple of years of increasing in April-May and plateauing in Oct-Dec is completely inverted. And the prices keep rising. 
 ![YOY Comparision](https://user-images.githubusercontent.com/80015885/112699234-c13e7580-8e61-11eb-9899-4dfd6970f9e7.png)
@@ -22,4 +22,5 @@ However, the market doesn't seem to be as active on the supply side. New listing
 ![New_Listing](https://user-images.githubusercontent.com/80015885/112702340-8a6c5d80-8e69-11eb-9397-c38ba5ade813.png)
 
 **Conclusion**
+
 The low quanity of price reduction, the reduced number of days that listings stay on the market show that there is high demand which is confirmed by the rocketing average prices of properties. The increase in price is fueled by the constant, if not decreasing, supply to the market. There seems to be extreme inflation in the current market pointing to a very thin market. 
